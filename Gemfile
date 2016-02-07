@@ -43,6 +43,9 @@ gem 'sass-rails'
 #include devise
 gem 'devise', '>= 3.2.4'
 
+#include simpleform
+gem 'simple_form'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.1.2'
 
