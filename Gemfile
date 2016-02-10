@@ -67,6 +67,9 @@ gem 'stripe'
 #include ranked-model
 gem 'ranked-model'
 
+#include jquery ui
+gem 'jquery-ui-rails'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.1.2'
 
